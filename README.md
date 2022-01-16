@@ -5,7 +5,7 @@ Save santa's toy factory.
 You can use latest version of gamemode using official code in workshop **`DEPQR`**
 
 ## Description
-Santa's toy factory has invaded by some enenies units, your team is responsible for saving the factory and securing santa's sleigh.
+Santa's toy factory has invaded by some enemy units, your team is responsible for santa's sleigh and secure factory.
 
 ## Objectives
 - Infiltrate in town and unlock sleigh
