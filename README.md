@@ -1,6 +1,9 @@
 # Uprising Xmas
 Save santa's toy factory.
 
+## Share Code
+You can use latest version of gamemode using official code in workshop **`DEPQR`**
+
 ## Description
 Santa's toy factory has invaded by some enenies units, your team is responsible for saving the factory and securing santa's sleigh.
 
